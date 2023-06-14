@@ -1,0 +1,1 @@
+java -jar dataopssuite-cli.jar -RunDataflowById -dataflowid  a1b4bce1-bf0f-403d-b2d4-e5a587229474 -encryptedpassword yfuwfY6JrT5IU931tIO2mg== -username dataops-sa – url  http://192.168.6.48:9080 -livyid 148
