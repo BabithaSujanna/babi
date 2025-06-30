@@ -1,0 +1,1 @@
+{"pipelineKey":"62222f10bbbf4a3ca3ab9f174b4f6e8f","name":"testing","description":"","definition":"{\"tasks\":[{\"parent\":[\"Terminator\"],\"children\":[],\"name\":\"check\",\"id\":\"CustomuB36W\",\"label\":\"command/batch\",\"type\":\"command/batch\",\"script\":\"mkdir D:/santanu\"},{\"children\":[\"CustomuB36W\"],\"id\":\"Terminator\",\"type\":\"Terminator\"}]}"}
