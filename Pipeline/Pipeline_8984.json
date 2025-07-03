@@ -1,0 +1,1 @@
+{"pipelineKey":"3c634aad-ba2d-4f7e-83a1-6d792fb60072","name":"Pipeline_8984","description":null,"definition":null,"option":"{\"maxParallel\":\"7\"}","parameter":"[{\"id\":\"param_1159\",\"type\":\"Numeric\",\"name\":\"san\",\"value\":60}]","engineDetail":null,"testcaseDetails":null,"pipelineType":"noDependency"}
