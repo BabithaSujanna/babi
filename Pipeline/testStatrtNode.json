@@ -1,0 +1,1 @@
+{"pipelineKey":"b8525ac701c3466bb6031e5f7ec2d8e3","name":"testStatrtNode","description":"","definition":"{\"inputOptions\":[{\"name\":\"limit\",\"inputType\":\"String\",\"label\":\"limit 200\",\"id\":\"b8525ac701c3466bb6031e5f7ec2d8e3:input:1\",\"type\":\"string\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

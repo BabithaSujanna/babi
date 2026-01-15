@@ -1,0 +1,1 @@
+{"pipelineKey":"a9b25987199a4a2990499bf6420a2186","name":"demo","description":"","definition":"{\"inputOptions\":[{\"name\":\"limit\",\"inputType\":\"String\",\"label\":\"limit 10000\",\"id\":\"a9b25987199a4a2990499bf6420a2186:input:1\",\"type\":\"string\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

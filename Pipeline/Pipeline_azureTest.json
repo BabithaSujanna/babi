@@ -1,0 +1,1 @@
+{"pipelineKey":"f67c0f6563ee4f4080d5737fe82f1473","name":"Pipeline_azureTest","description":"","definition":"{\"inputOptions\":[{\"name\":\"141\",\"inputType\":\"Livy\",\"label\":102,\"id\":\"f67c0f6563ee4f4080d5737fe82f1473:input:1\",\"type\":\"string\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
